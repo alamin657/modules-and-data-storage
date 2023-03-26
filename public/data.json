@@ -1,0 +1,44 @@
+[
+    {
+        "id": "64203d8a849a3823c7f4d7c5",
+        "price": 95,
+        "name": "Laura Ayers",
+        "gender": "female"
+    },
+    {
+        "id": "64203d8a08a989e77cd205c5",
+        "price": 456,
+        "name": "Atkins Cohen",
+        "gender": "male"
+    },
+    {
+        "id": "64203d8adabdb41bf2c5ba11",
+        "price": 316,
+        "name": "Walsh Kent",
+        "gender": "male"
+    },
+    {
+        "id": "64203d8a0239451d06f16ae1",
+        "price": 536,
+        "name": "Salazar Ford",
+        "gender": "male"
+    },
+    {
+        "id": "64203d8a398705f222073b9e",
+        "price": 38,
+        "name": "Leola Cotton",
+        "gender": "female"
+    },
+    {
+        "id": "64203d8a8252c72214fca8f8",
+        "price": 46,
+        "name": "Pate Landry",
+        "gender": "male"
+    },
+    {
+        "id": "64203d8ac699550fd662162f",
+        "price": 521,
+        "name": "Lowe Kramer",
+        "gender": "male"
+    }
+]
